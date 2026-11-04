@@ -1,0 +1,1 @@
+﻿Put each of your own game dumps in its own folder here, for example game\KMOH (KAMEN RIDER memory of heroez) and game\KRCF (KAMEN RIDER Climax Fighters) - the folders with eboot.bin, base game + update merged. Or choose them with Browse... in the launcher.
