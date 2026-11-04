@@ -4,7 +4,7 @@
 
 **Port PC oleh Indra Sundanese**
 
-Dua game KAMEN RIDER dari PS4 berjalan di Windows dengan Vulkan, dalam satu launcher.
+2 game KAMEN RIDER dari PS4 berjalan di Windows dengan Vulkan, dalam 1 launcher.
 
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011%20x64-0078D6)
 ![Grafis](https://img.shields.io/badge/grafis-Vulkan%201.3-AC162C)
@@ -33,13 +33,13 @@ Dua game KAMEN RIDER dari PS4 berjalan di Windows dengan Vulkan, dalam satu laun
 
 ## Tentang Proyek Ini
 
-Runtime dan launcher PC untuk dua game PlayStation 4: **KAMEN RIDER memory of heroez** dan **KAMEN RIDER Climax Fighters**.
+Runtime dan launcher PC untuk 2 game PlayStation 4: **KAMEN RIDER memory of heroez** dan **KAMEN RIDER Climax Fighters**.
 
 - Kode x86-64 milik game dijalankan langsung di prosesor PC.
 - Library sistem PS4 diimplementasikan ulang di PC.
 - Perintah GPU dan shader diterjemahkan ke Vulkan.
 
-Perangkat lunak bebas (free software) di bawah lisensi GNU GPL v2 atau versi yang lebih baru. Kredit lengkap ada di [`NOTICE.md`](NOTICE.md).
+Perangkat lunak (free software) di bawah lisensi GNU GPL v2 atau versi yang lebih baru. Kredit lengkap ada di [`NOTICE.md`](NOTICE.md).
 
 ## Persyaratan Sistem
 
